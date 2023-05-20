@@ -2,6 +2,10 @@
 # on Windows or when using a GPU. Please see the installation
 # instructions in INSTALL.md
 
+#########################################################
+# se actualiza archivo para realizar pr
+#########################################################
+
 ##### Core scientific packages
 jupyter==1.0.0
 matplotlib==3.3.4
