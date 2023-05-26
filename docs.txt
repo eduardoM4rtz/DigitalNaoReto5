@@ -1,1 +1,1 @@
-comentario rama B 12345
+archivo creado en rama A + comentario rama B 12345
